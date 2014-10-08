@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-51---Key-Pressed
+Cocos2d-JS v3 Tutorial 51 - Key Pressed
 =======================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/jHPcZ01yBTo
